@@ -16,7 +16,6 @@ https://github.com/jgthms/bulma
 
 https://github.com/pure-css/pure very small.
 
-https://github.com/picturepan2/spectre (looks like a one-man-show according to commit history)
 
 https://github.com/ant-design/ant-design (But for React, Not "html+css only")
 
@@ -27,3 +26,5 @@ https://github.com/tachyons-css/tachyons no recent updates.
 https://github.com/Dogfalo/materialize no recent updates.
 
 https://github.com/tailwindlabs/tailwindcss components (menu, navigation, ...) are commercial.
+
+https://github.com/picturepan2/spectre (looks like a one-man-show according to commit history)
