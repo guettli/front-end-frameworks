@@ -9,7 +9,7 @@ https://github.com/material-components/material-components-web
 
 https://github.com/mui-org/material-ui (but for React. Not "html+css only")
 
-https://github.com/twbs/bootstrap (Bootstrap5 is not released yet)
+https://github.com/twbs/bootstrap (Bootstrap4 is old and based in jQuery. Bootstrap5 is not released yet)
 
 https://github.com/jgthms/bulma
 
