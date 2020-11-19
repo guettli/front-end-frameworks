@@ -13,7 +13,6 @@ https://github.com/twbs/bootstrap (Bootstrap5 is not released yet)
 
 https://github.com/jgthms/bulma
 
-https://github.com/tailwindlabs/tailwindcss
 
 https://github.com/pure-css/pure very small.
 
@@ -26,3 +25,5 @@ https://github.com/ant-design/ant-design (But for React, Not "html+css only")
 https://github.com/tachyons-css/tachyons no recent updates.
 
 https://github.com/Dogfalo/materialize no recent updates.
+
+https://github.com/tailwindlabs/tailwindcss components (menu, navigation, ...) are commercial.
