@@ -21,7 +21,7 @@ https://github.com/pure-css/pure very small.
 https://github.com/ant-design/ant-design (But for React, Not "html+css only")
 
 
-https://get.foundation/
+https://get.foundation/ was hot 2016, mostly no commits in 2020
 
 # Unsuitable
 
