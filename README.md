@@ -16,7 +16,7 @@ https://github.com/mui-org/material-ui (but for React. Not "html+css only")
 
 https://github.com/twbs/bootstrap (Bootstrap4 is old and based in jQuery. Bootstrap5 is not released yet)
 
-https://github.com/jgthms/bulma
+https://github.com/jgthms/bulma Almost all commits are from one account. One-man-show?
 
 
 https://github.com/pure-css/pure very small.
