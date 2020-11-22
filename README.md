@@ -19,6 +19,8 @@ https://github.com/uikit/uikit Version 3 available since 2017. With constant upd
 
 # Unsuitable
 
+https://github.com/shoelace-style/shoelace one-man-show
+
 https://github.com/jgthms/bulma Almost all commits are from one account. One-man-show?
 
 https://github.com/materializecss/materialize fork of the orignal Materialize repo. Unsure if this will get long-term love.
