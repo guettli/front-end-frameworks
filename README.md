@@ -10,7 +10,7 @@ I don't need to support IE11. I want a small and modern framework.
 
 # Suitable
 
-https://github.com/twbs/bootstrap Bootstrap5
+https://github.com/twbs/bootstrap Bootstrap5. Still alpha, not release yet.
 
 https://github.com/pure-css/pure very small.
 
