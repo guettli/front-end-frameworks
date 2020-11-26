@@ -14,7 +14,7 @@ https://github.com/twbs/bootstrap Bootstrap5
 
 https://github.com/pure-css/pure very small.
 
-https://github.com/uikit/uikit Version 3 available since 2017. With constant updates.
+https://github.com/uikit/uikit Version 3 available since 2017. With constant updates. But don't confuse it with [uikit of apple](https://developer.apple.com/documentation/uikit)
 
 
 # Unsuitable
