@@ -8,6 +8,18 @@ Most frameworks started several years ago, and they were made for old browsers l
 
 I don't need to support IE11. I want a small and modern framework.
 
+# Reusable Web Components
+
+> With Custom Elements, web developers can create new HTML tags, beef-up existing HTML tags, 
+> or extend the components other developers have authored. The API is the foundation of web components. 
+> It brings a web standards-based way to create reusable components using nothing more than vanilla JS/HTML/CSS. 
+> The result is less code, modular code, and more reuse in our apps.
+
+Source: [Google Web Fundamentals](https://developers.google.com/web/fundamentals/web-components/customelements)
+
+
+
+
 # Suitable
 
 https://github.com/twbs/bootstrap Bootstrap5. Still alpha, not release yet.
