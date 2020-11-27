@@ -17,7 +17,10 @@ I don't need to support IE11. I want a small and modern framework.
 
 Source: [Google Web Fundamentals](https://developers.google.com/web/fundamentals/web-components/customelements)
 
+My prefered solution is based on Custom Elements, but I guess this is too new.
 
+Unfortunately up to now, most implementations are build on a framework (Angular, React, Vue), and this
+has the draw-back that the code can't be used everywhere.
 
 
 # Suitable
