@@ -60,3 +60,8 @@ https://github.com/picturepan2/spectre (looks like a one-man-show according to c
 https://github.com/fomantic/Fomantic-UI Most development was done 2015. Depends on jquery.
 
 https://get.foundation/ was hot 2016, mostly no commits in 2020
+
+
+# More
+
+[Thomas WOL: Working out Loud](https://github.com/guettli/wol)
