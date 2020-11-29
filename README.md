@@ -25,7 +25,7 @@ has the draw-back that the code can't be used everywhere.
 
 # Suitable
 
-https://github.com/twbs/bootstrap Bootstrap5. Still alpha, not release yet.
+https://v5.getbootstrap.com/ Bootstrap5. Still alpha, not release yet.
 
 https://github.com/pure-css/pure very small.
 
@@ -47,7 +47,6 @@ https://github.com/twbs/bootstrap Bootstrap4 (based on jquery)
 https://github.com/mui-org/material-ui (but for React. Not "html+css only")
 
 https://github.com/ant-design/ant-design (But for React, Not "html+css only")
-
 
 https://github.com/material-components/material-components-web Somehow the distinction between Material guideline and implemention is too complicated for me.
 
